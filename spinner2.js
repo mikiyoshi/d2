@@ -6,7 +6,6 @@ let arr = [];
 for (const char of loading) {
   // console.log(char);
   arr.push(char);
-  // console.log(arr.length);
 }
 
 for (let i = 0; i < arr.length; i++) {
